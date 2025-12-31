@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/nando-dotjs/nvidia-config-x11.git
+git clone https://github.com/nando-dotjs/nvidia-config-x11.git ~/repos
 cd nvidia-config-x11
 sudo ./install.sh
 
